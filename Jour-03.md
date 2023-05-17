@@ -1,8 +1,6 @@
 # Objectifs journaliers
 
-## Phase 0 - La prairie
-
-### Mercredi 15/09/2021
+### Mercredi 17/05/2023
 
 
 * [ ] Découverte du Terminal : 
