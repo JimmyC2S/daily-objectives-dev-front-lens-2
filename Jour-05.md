@@ -1,32 +1,26 @@
 # Objectifs journaliers
 
-## Phase 0 - La prairie
-
-### Vendredi 17/09/2021
+## Vendredi 19/05/2023
 
 
-* [ ] Créer son premier repo Github
-* [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-* [ ] Découverte du Markdown : 
-  * [ ] Comprendre l'intérêt du Markdown
-  * [ ] Découvrir les balises de bases : 
-    * [ ] Titres
-    * [ ] Images
-    * [ ] Listes
-    * [ ] Formatage de texte (italique, souligné, gras)
-    * [ ] Code
-    * [ ] Citations
-    * [ ] Tableaux
-    * [ ] Liens
-  * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [ ] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-* [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion
+* [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :  
+  * [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  * [ ] https://www.conventionalcommits.org/fr/v1.0.0/
+  * [ ] Renommer son dernier commit en respectant cette convention
+* [ ] Créer un cheat sheet sur Git
+* [ ] Créer un cheat sheet sur les principales commandes du terminal
+* [ ] Découvrir Gitflow
+  * [ ] Créer un cheat sheet sur Gitflow
+* [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos) 
+  * [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
+   
 
 
 
-### Optionnel pour apprendre le terminal Linux / Mac : 
+## Optionnel
 
-* [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+* [ ] Découvrir les linters et formaters
+  * [ ] Quelle est la différence entre un linter et un formater
+  * [ ] Quels sont les principaux outils les plus répandus ? 
+  * [ ] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
+
