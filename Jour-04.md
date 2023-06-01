@@ -1,8 +1,8 @@
 # Objectifs journaliers
 
-- [ ] Créer son premier repo Github
-- [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-- [ ] Découverte du Markdown :
+- [x] Créer son premier repo Github
+- [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
+- [x] Découverte du Markdown :
   - [ ] Comprendre l'intérêt du Markdown
   - [ ] Découvrir les balises de bases :
     - [ ] Titres

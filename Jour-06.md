@@ -4,7 +4,7 @@
 
 ### Javascript :
 
-- [] Comprendre les comparaisons en JavaScript (https://fr.javascript.info/comparison)
+- [x] Comprendre les comparaisons en JavaScript (https://fr.javascript.info/comparison)
   - [] Le mécanisme sous-jacent d'une comparaison de deux éléments en JavaScript (types différents)
   - [] La comparaison entre 2 chaines de caractères
   - [] La spécificté de null et undefined
